@@ -9,3 +9,5 @@ A Player can roll the dice any number of times until he rolls '1' on the dice, o
 So if any Player rolls '1' their respective current score for the instance will become '0' and the dice will be transferred to another Player
 So a Player can add up their current scores and pressing the Hold button 
 So any Player needs to add up their current scores without rolling '1' on the dice, and press the Hold button to add their current score to the Global Score
+
+Reference : Jonas Schmedtmann
